@@ -17,7 +17,7 @@
 		<spring-boot-version>1.1.6.RELEASE</spring-boot-version>
 		<logback-version>1.1.2</logback-version>
 		<jackson-version>2.4.2</jackson-version>
-		<woodstox-version>4.1.4</woodstox-version>
+		<woodstox-version>4.4.1</woodstox-version>
 		<json-path-version>0.9.1</json-path-version>
 
 		<mvn-compiler-version>3.1</mvn-compiler-version>
